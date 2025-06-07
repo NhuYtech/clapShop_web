@@ -70,10 +70,10 @@
 📬 **Liên hệ**
 - 👩‍💻 Sinh viên: Huỳnh Như Ý – HTTT2211015  
 - 📞 Hotline: 0982 147 252  
-- 📧 Email: hnyhttt2211015@student.ctuet.edu.vn  
-- 🔗 GitHub: https://github.com/NhuYsea  
+- 📧 Email: huynhnhuy.tech@gmail.com
+- 🔗 GitHub: https://github.com/NhuYtech  
 - 💻 Source code hiện đang được phát triển và cập nhật tại:  
-  - 🔗 https://github.com/NhuYsea/ClapShop
+  - 🔗 https://github.com/NhuYtech/ClapShop
 
 ---
 
